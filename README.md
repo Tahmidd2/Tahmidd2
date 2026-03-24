@@ -127,11 +127,6 @@ Contributed to **StuyPulse Team 694**'s competition robot code across two consec
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmidd2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=6" width="49%" alt="Top Languages"/>
 
 <br/>
-
-[![Pair Extraordinaire](https://img.shields.io/badge/🤝_Pair_Extraordinaire-×2-7c3aed?style=flat-square)](https://github.com/Tahmidd2?achievement=pair-extraordinaire&tab=achievements)
-[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-×2-7c3aed?style=flat-square)](https://github.com/Tahmidd2?achievement=pull-shark&tab=achievements)
-[![YOLO](https://img.shields.io/badge/🎲_YOLO-7c3aed?style=flat-square)](https://github.com/Tahmidd2?achievement=yolo&tab=achievements)
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmidd2&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=818cf8&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
