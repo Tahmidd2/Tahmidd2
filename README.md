@@ -79,7 +79,7 @@ I care about code that's **clean, purposeful, and accessible**
 
 ---
 
-### StuyPulse FRC Robotics
+### [StuyPulse FRC Robotics](https://stuypulse.com/) - FIRST Robotics
 
 <div align="center">
 
