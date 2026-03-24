@@ -24,7 +24,7 @@
 
 Hi, I'm **Tahmid Islam** — a developer who builds things that matter. I've shipped production web apps serving real users, written robot control code that competed at the highest levels of FIRST Robotics, and helped launch nonprofit platforms designed to level the playing field for students from underrepresented backgrounds.
 
-I care about code that's **clean, purposeful, and accessible** — whether that's a TypeScript frontend reaching thousands of students, a Next.js site powering a nonprofit's mission, or a Java swerve drive commanding a 120-lb competition robot.
+I care about code that's **clean, purposeful, and accessible**
 
 > 🏫 Stuyvesant High School &nbsp;|&nbsp; 🏙️ New York City &nbsp;|&nbsp; 🤝 [internyl-dev](https://github.com/internyl-dev) · [Volta-NYC](https://github.com/Volta-NYC) · [StuyPulse](https://github.com/StuyPulse)
 
@@ -32,10 +32,9 @@ I care about code that's **clean, purposeful, and accessible** — whether that'
 <summary>📌 <strong>A little more about me...</strong></summary>
 <br/>
 
-- 🛠️ **221+ commits** to a live production web app and **523+ commits** to FRC robot code
-- 🤖 Helped write the robot control code for StuyPulse's 2025 *and* 2026 competition seasons
-- 🌱 Passionate about making opportunity equitable — Internyl was built for students from underrepresented backgrounds
-- 🏆 GitHub achievements: Pair Extraordinaire ×2 · Pull Shark ×2 · YOLO
+- **221+ commits** to a live production web app and **523+ commits** to FRC robot code
+- Helped write the robot control code for StuyPulse's 2025 *and* 2026 competition seasons
+- Passionate about making opportunity equitable — Internyl was built for students from underrepresented backgrounds
 
 </details>
 
@@ -76,6 +75,7 @@ I care about code that's **clean, purposeful, and accessible** — whether that'
 - Official site for Volta NYC, a nonprofit pairing student consultants with local businesses and BIDs
 - Features animated Framer Motion transitions, a full student application flow, and a business inquiry pipeline
 - Clean, production-grade UI deployed on Vercel with a live client showcase
+- Technical Director, managing and ensuring teams can make real impact for small businesses
 
 ---
 
