@@ -43,7 +43,7 @@ I care about code that's **clean, purposeful, and accessible** — whether that'
 
 ## 🚀 Featured Projects
 
-### 🔍 [Internyl](https://internyl.org) — Opportunity Discovery Platform
+### [Internyl](https://internyl.org) — Opportunity Discovery Platform
 
 <div align="center">
 
@@ -54,17 +54,15 @@ I care about code that's **clean, purposeful, and accessible** — whether that'
 
 </div>
 
-> *One platform. Hundreds of opportunities. Zero paywalls.*
-
-AI-powered web app that scrapes the internet for student extracurricular opportunities — internships, programs, and more — and surfaces them in a clean, filterable interface. Built specifically to serve students from **underrepresented backgrounds**.
-
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Firebase` · `Firestore` · `React`
 
-🧠 AI recommendations &nbsp;·&nbsp; 🔎 Advanced filters &nbsp;·&nbsp; ✅ Eligibility checklists &nbsp;·&nbsp; 📊 User dashboard &nbsp;·&nbsp; 🔐 Auth & persistence
+- AI-powered platform that scrapes and surfaces student opportunities — internships, programs, competitions — with zero paywalls
+- Built for students from underrepresented backgrounds with eligibility checklists, advanced filters, and a personalized dashboard
+- Persistent auth, saved opportunities, and AI-driven recommendations tailored to each user's profile
 
 ---
 
-### ⚡ [Volta NYC](https://voltanyc.org) — Nonprofit Website
+### [Volta NYC](https://voltanyc.org) — Nonprofit Website
 
 <div align="center">
 
@@ -73,15 +71,15 @@ AI-powered web app that scrapes the internet for student extracurricular opportu
 
 </div>
 
-> *Connecting NYC student talent with local businesses.*
-
-Official site for Volta's NYC branch — a nonprofit pairing student consultants with local businesses and BIDs. Features Framer Motion animations, a student application flow, business inquiry forms, and a client showcase.
-
 `Next.js 14` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Vercel`
+
+- Official site for Volta NYC, a nonprofit pairing student consultants with local businesses and BIDs
+- Features animated Framer Motion transitions, a full student application flow, and a business inquiry pipeline
+- Clean, production-grade UI deployed on Vercel with a live client showcase
 
 ---
 
-### 🤖 StuyPulse FRC Robotics
+### StuyPulse FRC Robotics
 
 <div align="center">
 
@@ -92,9 +90,11 @@ Official site for Volta's NYC branch — a nonprofit pairing student consultants
 
 </div>
 
-Contributed to **StuyPulse Team 694**'s competition robot code across two consecutive seasons. *Aunt Mary* (2025) featured swerve drive, Limelight AprilTag vision, a multi-stage elevator+arm, and multiple game piece mechanisms — competing all the way to the **FIRST Championship**. *Tribecbot* (2026) is the current season's robot, actively in development.
-
 `Java` · `WPILib` · `Gradle` · `Limelight` · `NetworkTables`
+
+- Contributed to **StuyPulse Team 694**'s robot code across two consecutive seasons
+- *Aunt Mary* (2025): swerve drive, Limelight AprilTag vision, multi-stage elevator+arm — competed at the **FIRST Championship**
+- *Tribecbot* (2026): current season robot, actively in development
 
 ---
 
@@ -104,12 +104,14 @@ Contributed to **StuyPulse Team 694**'s competition robot code across two consec
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![WPILib](https://img.shields.io/badge/WPILib-1B3A5C?style=for-the-badge&logo=java&logoColor=white)
 
