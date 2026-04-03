@@ -20,25 +20,30 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi, I'm **Tahmid Islam** — a developer who builds things that matter. I've shipped production web apps serving real users, written robot control code that competed at the highest levels of FIRST Robotics, and helped launch nonprofit platforms designed to level the playing field for students from underrepresented backgrounds.
 
 I care about code that's **clean, purposeful, and accessible**
 
-> 🏫 Stuyvesant High School &nbsp;|&nbsp; 🏙️ New York City &nbsp;|&nbsp; 🤝 [internyl-dev](https://github.com/internyl-dev) · [Volta-NYC](https://github.com/Volta-NYC) · [StuyPulse](https://github.com/StuyPulse)
+Stuyvesant High School | New York City | 
+[internyl-dev](https://github.com/internyl-dev) · 
+[Volta-NYC](https://github.com/Volta-NYC) · 
+[StuyPulse](https://github.com/StuyPulse)
 
 <details>
-<summary>📌 <strong>A little more about me...</strong></summary>
+<summary><strong>A little more about me...</strong></summary>
 <br/>
 
-- **221+ commits** to a live production web app and **523+ commits** to FRC robot code
-- Helped write the robot control code for StuyPulse's 2025 *and* 2026 competition seasons
-- Passionate about making opportunity equitable — Internyl was built for students from underrepresented backgrounds
+- 221+ commits to a live production web app and 523+ commits to FRC robot code  
+- Helped write the robot control code for StuyPulse's 2025 and 2026 competition seasons  
+- Passionate about making opportunity equitable — Internyl was built for students from underrepresented backgrounds  
 
 </details>
 
-## 🛠️ Tech Stack
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -59,14 +64,12 @@ I care about code that's **clean, purposeful, and accessible**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tahmidd2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=818cf8&text_color=e2e8f0&ring_color=7c3aed" width="49%" alt="Tahmid's GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmidd2&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=818cf8&currStreakLabel=a78bfa" width="49%" alt="Tahmid's Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmidd2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=6" width="49%" alt="Top Languages"/>
 
 <br/>
 <br/>
@@ -81,6 +84,6 @@ I care about code that's **clean, purposeful, and accessible**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-**⭐ If any of my projects helped you, a star would be appreciated!**
+**If any of my projects helped you, a star would be appreciated.**
 
 </div>
