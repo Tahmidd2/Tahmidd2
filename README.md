@@ -38,66 +38,6 @@ I care about code that's **clean, purposeful, and accessible**
 
 </details>
 
----
-
-## 🚀 Featured Projects
-
-### [Internyl](https://internyl.org) — Opportunity Discovery Platform
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Repo-internyl--frontend-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/internyl-dev/internyl-frontend)
-[![Live](https://img.shields.io/badge/Live-internyl.org-24243e?style=for-the-badge&logo=vercel&logoColor=white)](https://internyl.org)
-[![Stars](https://img.shields.io/github/stars/internyl-dev/internyl-frontend?style=for-the-badge&color=302b63&labelColor=0f0c29)](https://github.com/internyl-dev/internyl-frontend/stargazers)
-[![License](https://img.shields.io/badge/AGPL--3.0-302b63?style=for-the-badge)](https://github.com/internyl-dev/internyl-frontend/blob/main/LICENSE.md)
-
-</div>
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Firebase` · `Firestore` · `React`
-
-- AI-powered platform that scrapes and surfaces student opportunities — internships, programs, competitions — with zero paywalls
-- Built for students from underrepresented backgrounds with eligibility checklists, advanced filters, and a personalized dashboard
-- Persistent auth, saved opportunities, and AI-driven recommendations tailored to each user's profile
-
----
-
-### [Volta NYC](https://voltanyc.org) — Nonprofit Website
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Repo-voltanyc-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volta-NYC/voltanyc)
-[![Live](https://img.shields.io/badge/Live-voltanyc.org-24243e?style=for-the-badge&logo=vercel&logoColor=white)](https://voltanyc.org)
-
-</div>
-
-`Next.js 14` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Vercel`
-
-- Official site for Volta NYC, a nonprofit pairing student consultants with local businesses and BIDs
-- Features animated Framer Motion transitions, a full student application flow, and a business inquiry pipeline
-- Clean, production-grade UI deployed on Vercel with a live client showcase
-- Technical Director, managing and ensuring teams can make real impact for small businesses
-
----
-
-### [StuyPulse FRC Robotics](https://stuypulse.com/) - FIRST Robotics
-
-<div align="center">
-
-[![Aunt Mary](https://img.shields.io/badge/2025-Aunt_Mary-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StuyPulse/Aunt-Mary)
-[![Stars](https://img.shields.io/github/stars/StuyPulse/Aunt-Mary?style=for-the-badge&color=302b63&labelColor=0f0c29)](https://github.com/StuyPulse/Aunt-Mary/stargazers)
-[![Tribecbot](https://img.shields.io/badge/2026-Tribecbot-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StuyPulse/Tribecbot)
-[![Stars](https://img.shields.io/github/stars/StuyPulse/Tribecbot?style=for-the-badge&color=24243e&labelColor=0f0c29)](https://github.com/StuyPulse/Tribecbot/stargazers)
-
-</div>
-
-`Java` · `WPILib` · `Gradle` · `Limelight` · `NetworkTables`
-
-- Contributed to **StuyPulse Team 694**'s robot code across two consecutive seasons
-- *Aunt Mary* (2025): swerve drive, Limelight AprilTag vision, multi-stage elevator+arm — competed at the **FIRST Championship**
-- *Tribecbot* (2026): current season robot, actively in development
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
