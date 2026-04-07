@@ -14,8 +14,6 @@
   </a>
 </p>
 
-### *"Building systems that scale and software that creates opportunity."*
-
 </div>
 
 ---
