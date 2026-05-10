@@ -16,7 +16,7 @@ full-stack dev + robotics engineer out of Stuyvesant HS, NYC · [internyl-dev](h
 ## experience
 
 **Tech Lead — [Volta NYC](https://github.com/Volta-NYC)**  
-Lead dev for 30+ businesses, scaled systems to 10k+ monthly requests, managed a team of 20+
+Lead dev for 50+ businesses, scaled systems to 10k+ monthly requests, managed a team of 20+
 
 **Lead Dev — [Internyl](https://github.com/internyl-dev)**  
 Co-built an internship platform for 100+ students, aggregated 1k+ listings via LLM scraping
