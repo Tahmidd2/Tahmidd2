@@ -16,10 +16,10 @@ full-stack dev + robotics engineer out of Stuyvesant HS, NYC · [internyl-dev](h
 ## experience
 
 **Tech Lead — [Volta NYC](https://github.com/Volta-NYC)**  
-Lead dev for 50+ businesses, scaled systems to 10k+ monthly requests, managed a team of 20+
+Lead dev for 90+ businesses, scaled systems to 10k+ monthly api requests, managed a team of 40+, grew Volta to over 350 members
 
 **Lead Dev — [Internyl](https://github.com/internyl-dev)**  
-Co-built an internship platform for 100+ students, aggregated 1k+ listings via LLM scraping
+Co-built an internship platform for 100+ students, aggregated 1k+ listings via an LLM scraping pipeline
 
 **Software — [FRC 694 StuyPulse](https://github.com/StuyPulse)**  
 Robot code (PID + control systems), regional wins, national quals, mentored 40+ members
@@ -37,6 +37,8 @@ Robot code (PID + control systems), regional wins, national quals, mentored 40+ 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WPILib](https://img.shields.io/badge/WPILib-1B3A5C?style=for-the-badge&logo=java&logoColor=white)
