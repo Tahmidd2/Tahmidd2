@@ -9,14 +9,14 @@
 
 ---
 
-full-stack dev + robotics engineer out of Stuyvesant HS, NYC · [internyl-dev](https://github.com/internyl-dev) · [Volta-NYC](https://github.com/Volta-NYC) · [StuyPulse](https://github.com/StuyPulse)
+full-stack dev + robotics engineer out of Stuyvesant HS, NYC · [Internyl](https://github.com/internyl-dev) · [Novus-NYC](https://novusnyc.org/) · [StuyPulse](https://github.com/StuyPulse)
 
 ---
 
 ## experience
 
 **Tech Lead — [Novus NYC](https://github.com/Volta-NYC)**  
-Lead dev for 150+ businesses, scaled systems to 30K+ weekly visitors, managed 40+ devs scaling tech ops to 5+ chapters, grew Novus to 400 members
+Lead dev for 200+ businesses, scaled systems to 300K+ monthly visitors, managed 40+ devs scaling tech ops to 5+ chapters, grew Novus to 600 members
 
 **Lead Dev — [Internyl](https://github.com/internyl-dev)**  
 Co-built an internship platform for 100+ students, aggregated 1k+ listings via an LLM scraping pipeline
