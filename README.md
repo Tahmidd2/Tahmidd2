@@ -49,7 +49,7 @@ Robot code (PID + control systems), regional wins, national quals, mentored 100+
 ## activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmidd2&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=818cf8&area=true&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/Tahmidd2/Tahmidd2/output/github-snake.svg" alt="contribution snake" width="95%"/>
 </div>
 
 ---
