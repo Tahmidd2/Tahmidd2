@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tahmid%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Robotics%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 <p>
   <a href="https://github.com/Tahmidd2"><img src="https://komarev.com/ghpvc/?username=Tahmidd2&label=Profile%20Views&color=302b63&style=flat-square" /></a>
-  <a href="https://github.com/Tahmidd2?tab=followers"><img src="https://img.shields.io/github/followers/Tahmidd2?label=Followers&style=flat-square&color=302b63&labelColor=0f0c29" /></a>
   <a href="https://www.linkedin.com/in/tahmid-islam-720a37307/"><img src="https://img.shields.io/badge/LinkedIn-Tahmid%20Islam-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 </div>
@@ -15,7 +14,7 @@ full-stack dev + robotics engineer out of Stuyvesant HS, NYC · [Internyl](https
 
 ## experience
 
-**Tech Lead — [Novus NYC](https://github.com/Volta-NYC)**  
+**Tech Lead — [Novus NYC](https://novusnyc.org/)**  
 Lead dev for 200+ businesses, scaled systems to 300K+ monthly visitors, managed 40+ devs scaling tech ops to 5+ chapters, grew Novus to 600 members
 
 **Lead Dev — [Internyl](https://github.com/internyl-dev)**  
@@ -50,10 +49,4 @@ Robot code (PID + control systems), regional wins, national quals, mentored 100+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tahmidd2/Tahmidd2/output/github-snake.svg" alt="contribution snake" width="95%"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
