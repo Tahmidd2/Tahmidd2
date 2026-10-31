@@ -20,7 +20,7 @@ Led 27 developers building 180+ websites reaching 250K+ monthly visitors.
 Led a 15+ member Java/WPILib software team; mentored 100+ students.
 
 **Developer | [Internyl](https://github.com/internyl-dev)**  
-Built an internship platform serving 200+ users with 1K+ opportunities.
+Built an internship platform serving 200+ users with 500+ opportunities.
 
 ## Tech Stack
 
