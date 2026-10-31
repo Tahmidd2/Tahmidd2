@@ -1,30 +1,28 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tahmid%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Robotics%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-<p>
-  <a href="https://www.linkedin.com/in/tahmid-islam-720a37307/"><img src="https://img.shields.io/badge/LinkedIn-Tahmid%20Islam-0077B5?style=flat-square" /></a>
+
+<h1 align="center">Tahmid Islam</h1>
+
+<p align="center">
+  Software Engineering · Robotics · Machine Learning
 </p>
-</div>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/tahmidd2/">LinkedIn</a> ·
+  <a href="https://novusnyc.org/">Novus NYC</a> ·
+  <a href="https://github.com/StuyPulse">StuyPulse</a>
+</p>
 
-full-stack dev + robotics engineer out of Stuyvesant HS, NYC · [Internyl](https://github.com/internyl-dev) · [Novus-NYC](https://novusnyc.org/) · [StuyPulse](https://github.com/StuyPulse)
+## Experience
 
----
+**Co-Founder & Director of Technology | [Novus NYC](https://novusnyc.org/)**  
+Led 27 developers building 180+ websites reaching 250K+ monthly visitors. Architected internal systems using Next.js, TypeScript, and Supabase.
 
-## experience
+**Software Engineer & Rookie Education Director | [StuyPulse (FRC 694)](https://github.com/StuyPulse)**  
+Led a 15+ member software team developing Java/WPILib robot controls, vision, and odometry systems. Mentored 100+ students.
 
-**Tech Lead — [Novus NYC](https://novusnyc.org/)**  
-Lead dev for 200+ businesses, scaled systems to 300K+ monthly visitors, managed 40+ devs scaling tech ops to 5+ chapters, grew Novus to 600 members
+**Developer | [Internyl](https://github.com/internyl-dev)**  
+Built a full-stack internship platform serving 200+ users with 1K+ opportunities. Contributed to an LLM/RAG discovery pipeline.
 
-**Lead Dev — [Internyl](https://github.com/internyl-dev)**  
-Co-built an internship platform for 100+ students, aggregated 1k+ listings via an LLM scraping pipeline
-
-**Software Engineer, Director of IT — [FRC 694 StuyPulse](https://github.com/StuyPulse)**  
-Robot code (PID + control systems), regional wins, national quals, mentored 100+ members
-
----
-
-## stack
+## Tech Stack
 
 <div align="center">
 
@@ -42,10 +40,8 @@ Robot code (PID + control systems), regional wins, national quals, mentored 100+
 
 </div>
 
----
-
-## activity
+## Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tahmidd2/Tahmidd2/output/github-snake.svg" alt="contribution snake" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Tahmidd2/Tahmidd2/output/github-snake.svg" alt="GitHub contribution snake" width="95%"/>
 </div>
