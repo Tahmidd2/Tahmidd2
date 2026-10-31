@@ -14,13 +14,13 @@
 ## Experience
 
 **Co-Founder & Director of Technology | [Novus NYC](https://novusnyc.org/)**  
-Led 27 developers building 180+ websites reaching 250K+ monthly visitors. Architected internal systems using Next.js, TypeScript, and Supabase.
+Led 27 developers building 180+ websites reaching 250K+ monthly visitors.
 
 **Software Engineer & Rookie Education Director | [StuyPulse (FRC 694)](https://github.com/StuyPulse)**  
-Led a 15+ member software team developing Java/WPILib robot controls, vision, and odometry systems. Mentored 100+ students.
+Led a 15+ member Java/WPILib software team; mentored 100+ students.
 
 **Developer | [Internyl](https://github.com/internyl-dev)**  
-Built a full-stack internship platform serving 200+ users with 1K+ opportunities. Contributed to an LLM/RAG discovery pipeline.
+Built an internship platform serving 200+ users with 1K+ opportunities.
 
 ## Tech Stack
 
