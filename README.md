@@ -14,7 +14,7 @@
 ## Experience
 
 **Co-Founder & Director of Technology | [Novus NYC](https://novusnyc.org/)**  
-Led 27 developers building 180+ websites reaching 250K+ monthly visitors.
+Led 27 developers building 250+ websites reaching 300K+ monthly visitors.
 
 **Software Engineer & Rookie Education Director | [StuyPulse (FRC 694)](https://github.com/StuyPulse)**  
 Led a 15+ member Java/WPILib software team; mentored 100+ students.
